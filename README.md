@@ -1,5 +1,5 @@
-<h1>Criando uma simples agenda para mostrar recursos SPRING em combinação com template ENGINE THYMELEAF </h1>
-<p><strong> Sejam bem-vindos ao projeto Agenda MVC - thymeleaf </strong><br>
+<h1>Criando um simples cadastro de pessoas para mostrar recursos SPRING em combinação com template ENGINE THYMELEAF </h1>
+<p><strong> Sejam bem-vindos ao projeto cadastro de pessoas MVC - thymeleaf </strong><br>
 
 <h2>🎯 Objetivo do Projeto</h2>
 <p>Explorar recursos do thymeleaf e aumentar o conhecimento em técnicas de front-end</p>
