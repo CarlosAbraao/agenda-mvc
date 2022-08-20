@@ -1,0 +1,5 @@
+package com.devcarlos.agenda.controller;
+
+public class ViewController {
+
+}
